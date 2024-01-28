@@ -1,0 +1,157 @@
+{
+    "storyName": "free",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "youfnf",
+    "weekBefore": "fplay",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "songs": [
+        [
+            "Endearment",
+            "phonophobiagf",
+            [
+                255,
+                255,
+                255
+            ]
+        ],
+        [
+            "Archangel",
+            "FlyHigh",
+            [
+                253,
+                253,
+                150
+            ]
+        ],
+        [
+            "Precariousness",
+            "FlyHigh",
+            [
+                253,
+                253,
+                150
+            ]
+        ],
+        [
+            "Intrusion",
+            "azastroth",
+            [
+                128,
+                0,
+                128
+            ]
+        ],
+        [
+            "Idiocy",
+            "bandumb",
+            [
+                0,
+                250,
+                154
+            ]
+        ],
+        [
+            "Tricked",
+            "bandumbmad",
+            [
+                0,
+                128,
+                0
+            ]
+        ],
+        [
+            "Gobstopper",
+            "trueexpungedbandumb",
+            [
+                0,
+                100,
+                0
+            ]
+        ],
+        [
+            "Annoyance",
+            "Zander",
+            [
+                0,
+                80,
+                0
+            ]
+        ],
+        [
+            "Half Sided",
+            "Zander",
+            [
+                0,
+                70,
+                0
+            ]
+        ],
+        [
+            "Half Hearted",
+            "Zand0r",
+            [
+                128,
+                0,
+                128
+            ]
+        ],
+        [
+            "Standoff",
+            "zannder",
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        [
+            "Greetings",
+            "Allure",
+            [
+                14,
+                14,
+                14
+            ]
+        ],
+        [
+            "Room Tour",
+            "Allure",
+            [
+                14,
+                14,
+                14
+            ]
+        ],
+        [
+            "Imprisonment",
+            "AllureCurse",
+            [
+                14,
+                14,
+                14
+            ]
+        ],
+        [
+            "Anathematized",
+            "AllurePanicked",
+            [
+                14,
+                14,
+                14
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "weekName": "frepla"
+}
